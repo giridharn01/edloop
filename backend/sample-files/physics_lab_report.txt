@@ -1,0 +1,34 @@
+Physics 301 - Lab Report
+Experiment: Measuring Acceleration Due to Gravity
+
+Objective:
+To determine the acceleration due to gravity using a pendulum.
+
+Equipment:
+- Simple pendulum
+- Stopwatch
+- Measuring tape
+- Protractor
+
+Procedure:
+1. Set up pendulum with 1-meter string
+2. Measure 10 oscillations for small angles
+3. Record time and calculate period
+4. Repeat for different lengths
+5. Plot T² vs L graph
+
+Results:
+Length (m) | Period (s) | T² (s²)
+0.5        | 1.42       | 2.01
+0.7        | 1.68       | 2.82
+1.0        | 2.01       | 4.04
+1.2        | 2.20       | 4.84
+
+Analysis:
+From the slope of T² vs L graph:
+g = 4π²/slope = 9.78 m/s²
+
+Error: ±0.1 m/s² (1% accuracy)
+
+Conclusion:
+Measured value agrees with accepted value of g = 9.8 m/s²

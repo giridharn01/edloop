@@ -1,0 +1,37 @@
+Biology 201 - Midterm Study Guide
+Cell Biology and Genetics
+
+Chapter 1: Cell Structure
+- Prokaryotes vs Eukaryotes
+- Organelles and their functions
+- Cell membrane structure
+- Transport mechanisms
+
+Chapter 2: DNA and RNA
+- DNA structure (double helix)
+- Base pairing rules (A-T, G-C)
+- Transcription process
+- Translation and protein synthesis
+
+Chapter 3: Cell Division
+- Mitosis phases (PMAT)
+- Meiosis and genetic variation
+- Cell cycle regulation
+- Cancer and cell cycle
+
+Chapter 4: Genetics
+- Mendel's laws
+- Punnett squares
+- Dominance patterns
+- Linkage and crossing over
+
+Key Terms:
+- Chromosome, gene, allele
+- Genotype vs phenotype
+- Homozygous vs heterozygous
+- Codominance and incomplete dominance
+
+Practice Problems:
+1. Cross AaBb × AaBb, find phenotype ratio
+2. Calculate map distance from recombination frequency
+3. Identify inheritance pattern from pedigree

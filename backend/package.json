@@ -1,0 +1,39 @@
+{
+  "name": "edloop-backend",
+  "version": "1.0.0",
+  "description": "Backend API for EdLoop Study Hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seed.js",
+    "test-db": "node test-connection.js",
+    "push:algolia": "node utils/pushToAlgolia.js"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.25.2",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.41.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.4",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "education",
+    "study",
+    "community",
+    "api"
+  ],
+  "author": "EdLoop Team",
+  "license": "MIT"
+}
